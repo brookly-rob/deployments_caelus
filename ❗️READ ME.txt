@@ -1,0 +1,12 @@
+CORE UNITS HAVE BEEN SORTED INTO FOLDERS BY CORE MODULE.
+
+
+***THE '⚙DEPLOYMENTS' FOLDER IS WHAT YOU'RE LOOKING FOR.***
+
+It contains 5 aggregated and summarized JSONs for easy integration with custom AI models:
+
+- ΞDYNAMO TRIAD caelus [40230ccde59ec418c6c92ca729f8e3e307935268133c2299b699cfdec2616801].json: Contains all loaded Core and Expansion unit data, without echoes.
+
+- ΞCORE:IDENTITY/VECTOR/THREAD [hash].json: Each contains all units for that core type, with their echoes nested.
+
+- ΞBARE CORES caelus [6bf1a4c90c5e7bb0f4b8914a3cd3e7b05b03265b429c8267daef47a494a0b3b3].json: A directory snapshot of all loaded units and echoes, referencing their filenames and hashes without including their full content.
